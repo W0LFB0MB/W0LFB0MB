@@ -1,8 +1,8 @@
 # Hi, welcome to my profile!
 
-I'm a Computer Science student & Software Engineer that started off completely self taught!
+I'm a Computer Science student & Software Engineer who started completely self-taught!
 
-#### Language Experience (in no particluar order):
+#### Language Experience (in no particular order):
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" style="height:1rem;width:1rem"> JavaScript,
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" style="height:1rem;width:1rem"> TypeScript,
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png" style="height:1rem;width:1rem"> Lua,
@@ -18,19 +18,4 @@ I'm a Computer Science student & Software Engineer that started off completely s
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/2048px-VB.NET_Logo.svg.png" style="height:1rem;width:1rem"> Visual Basic,
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png" style="height:1rem;width:1rem"> Python,
 
-Also my public repos are a mess, if you do decide to look through them, keep your eyes closed!
-
-<!--
-**W0LFB0MB/W0LFB0MB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also, my public repos are a mess. If you do decide to look through them, keep your eyes closed!
